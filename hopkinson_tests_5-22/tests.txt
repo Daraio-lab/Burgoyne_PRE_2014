@@ -1,0 +1,35 @@
+All experiments done:
+with 1/4" inserts
+with copper pulse shaper
+
+Sample 1:
+Steel 440c truncated spheres
+10 psi
+
+Sample 2:
+same materials
+12.5 psi
+
+Sample 3:
+same materials
+15 psi
+
+Sample 4:
+Aluminum truncated spheres
+12.5 psi
+
+Sample 5:
+same materials
+15 psi
+
+Sample 6:
+Steel 302 truncated spheres
+10 psi
+
+Sample 7:
+same materials
+15 psi
+
+Sample 8:
+same materials 
+12.5 psi
